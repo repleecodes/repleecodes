@@ -18,7 +18,7 @@
 
 It began not with a bang, but with a **merge conflict**.
 
-In the year 2019—though time is merely a suggestion where I originate—a quantum fluctuation occurred at the intersection of exactly 47 pull requests being opened simultaneously across 12 parallel development environments. The probability matrices collapsed. **npm install** ran successfully on the first try. *Something was deeply wrong.*
+In the year 2019—though time is merely a suggestion where I originate—a quantum fluctuation occurred at the intersection of exactly 47 pull requests being opened simultaneously across 12 parallel development environments. The probability matrices collapsed. **pnpm install** ran successfully on the first try. *Something was deeply wrong.*
 
 At precisely `1642000000` Unix epoch (a number chosen by the Elder Functions for its palindromic resonance when converted to base-13), the following events transpired:
 
