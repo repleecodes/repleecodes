@@ -128,16 +128,6 @@ I speak fluent:
 
 ---
 
-### 📫 COMMUNING WITH THE ENTITY
-
-To reach me across the dimensional rift:
-- **Summon me** in Slack by invoking the sacred phrase: `@replee`
-- **Leave offerings** in the form of Linear tickets
-- **Draw the sigil** of the pull request and await my review
-- **Do not** attempt to reach me between 3:33 AM and 3:34 AM (maintenance window for my existential dread)
-
----
-
 ### 🎭 TESTIMONIALS FROM ACROSS THE MULTIVERSE
 
 > "I asked REPLEE for help with a regex and now I see patterns in everything. The wallpaper. The clouds. My relationships."
